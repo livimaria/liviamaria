@@ -4,15 +4,31 @@ Atualmente, sou granduanda de 7° semestre de ciências da computação.
 
 ### **💻Conhecimentos em:**
 
-<div style "display: "inline">
- &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
- &nbsp;&nbsp;<img  src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;  
- &nbsp;&nbsp;<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;   
- &nbsp;&nbsp;<img src="https://github.com/livimaria/liviamaria/assets/126735172/0aa02f14-9dfd-4910-b7ba-94623c667079" />&nbsp;&nbsp;
- &nbsp;&nbsp;<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />&nbsp;&nbsp;
- &nbsp;&nbsp;<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />&nbsp;&nbsp;
- &nbsp;&nbsp;<img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
-</div>
+<p align="left">
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+
+  <!-- HTML5 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+
+  <!-- CSS3 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+
+  <!-- MySQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="40"/>
+
+  <!-- Java -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+
+  <!-- GitLab -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40"/>
+
+  <!-- Linux -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+
+  <!-- Power BI (não tem no Devicon, usar imagem alternativa) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
+</p>
 
      
 ### **📱Você também me encontra em:**
