@@ -11,7 +11,7 @@ Atualmente, sou granduanda de 7° semestre de ciências da computação.
  &nbsp;&nbsp;<img src="https://github.com/livimaria/liviamaria/assets/126735172/0aa02f14-9dfd-4910-b7ba-94623c667079" />&nbsp;&nbsp;
  &nbsp;&nbsp;<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />&nbsp;&nbsp;
  &nbsp;&nbsp;<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />&nbsp;&nbsp;
- &nbsp;&nbsp;<img src="https://img.shields.io/badge/Java-red?style=flat&logo=java&logoColor=white" />&nbsp;&nbsp;
+ &nbsp;&nbsp;<img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
 </div>
 
      
