@@ -4,7 +4,7 @@ Atualmente, sou granduanda de 7° semestre de ciências da computação.
 
 ### **💻Conhecimentos em:**
 
-<p align="left">
+<p align="centralize">
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 
