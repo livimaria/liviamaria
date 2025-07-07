@@ -12,7 +12,7 @@ Atualmente, sou granduanda de 7° semestre de ciências da computação.
  &nbsp;&nbsp;<img src="https://img.shields.io/badge/Linux-Sistema%20Operacional-000000?style=for-the-badge&logo=linux&logoColor=white" />&nbsp;&nbsp;
  &nbsp;&nbsp;<img src="https://img.shields.io/badge/Power%20BI-Data%20Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />&nbsp;&nbsp;
  &nbsp;&nbsp;<img src="https://img.shields.io/badge/Java-Programação-red?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
- &nbsp;&nbsp;<img src="https://img.shields.io/badge/GitLab-Repositório%20Privado-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />&nbsp;&nbsp;
+
 </div>
 
      
