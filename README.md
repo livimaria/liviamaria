@@ -1,7 +1,5 @@
 ## Olá, eu sou a Lívia ☺️!
 
-Atualmente, sou granduanda de 7° semestre de ciências da computação.
-
 ### **💻Conhecimentos em:**
 
 <p align="left">
